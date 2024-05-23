@@ -1,0 +1,2 @@
+python program running cmd 
+   python -m uvicorn main:app --reload
